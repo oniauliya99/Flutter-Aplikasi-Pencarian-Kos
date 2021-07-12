@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "377863843583",
+    "project_id": "golekos-20ebf",
+    "storage_bucket": "golekos-20ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377863843583:android:d67c0ba112c3802e5226ca",
+        "android_client_info": {
+          "package_name": "com.oritech.golekos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377863843583-6bj8afm6quo859vmt392lnk6m6h671b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oritech.golekos",
+            "certificate_hash": "cca8bfd96108261082b0417805cd63bff0a301ee"
+          }
+        },
+        {
+          "client_id": "377863843583-cb9hu2rvosqfgcd9rr7rbu683550vimd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oritech.golekos",
+            "certificate_hash": "7eef3a9b3658bd92ed33bc62a2deb7ec11a9bbba"
+          }
+        },
+        {
+          "client_id": "377863843583-gq6484pdqa1uvoq01ipuloncbercq5gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oritech.golekos",
+            "certificate_hash": "d8a7a2e3cc4a969cc3e73944d9cf9b8385e716ed"
+          }
+        },
+        {
+          "client_id": "377863843583-na37g77t3h6t172juo2mrtgvprset6mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxzbr-8ysanHDTJm1FF5vJVWUxf-aAXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377863843583-na37g77t3h6t172juo2mrtgvprset6mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
